@@ -1,0 +1,15 @@
+[submodule "vagrant"]
+	path = vagrant
+	url = git@github.com:ivan-project/vagrant.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ivan-project/frontend.git
+[submodule "lemmatizer"]
+	path = lemmatizer
+	url = git@github.com:ivan-project/lemmatizer.git
+[submodule "queue"]
+	path = queue
+	url = git@github.com:ivan-project/queue.git
+[submodule "diff"]
+	path = diff
+	url = git@github.com:ivan-project/diff.git
