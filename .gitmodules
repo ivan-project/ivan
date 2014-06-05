@@ -13,3 +13,6 @@
 [submodule "diff"]
 	path = diff
 	url = git@github.com:ivan-project/diff.git
+[submodule "dictionary_importer"]
+	path = dictionary_importer
+	url = git@github.com:ivan-project/dictionary_importer.git
