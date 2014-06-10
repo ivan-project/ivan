@@ -1,5 +1,5 @@
 #!/bin/bash
-modules=(vagrant queue diff lemmatizer frontend)
+modules=(vagrant queue diff lemmatizer frontend dictionary_importer)
 for i in "${modules[@]}"
 do
     if [[ $i ]]; then
